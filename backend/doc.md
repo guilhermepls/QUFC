@@ -1,0 +1,1 @@
+Lógica de interação do banco com a aplicação. 
